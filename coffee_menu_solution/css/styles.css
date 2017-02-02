@@ -1,0 +1,12 @@
+div{
+  display: inline-block;
+}
+
+#sidemenu{
+  width: 500px;
+  float: right;
+}
+
+.menuwrapper{
+  float: left
+}
