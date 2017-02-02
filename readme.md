@@ -20,7 +20,7 @@ Create an app that:
 
 ### Example app:
 
-![image](images/screenshot.jpg)
+![image](screenshot.jpg)
 
 ### Bonus
 
